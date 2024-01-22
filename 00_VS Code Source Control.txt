@@ -1,7 +1,3 @@
-git commit -m "Your commit message here"
-
-
-git commit -m "Staging all changes on a15 as of Sunday 2024-01-21, then committing them locally, and finally pushing them to Github remote repository"
 ----------------------------------------------------------------------
 In MacOS VS Code Source Control, I see the choices below. Can you explain me each of those choices?
 Commit
