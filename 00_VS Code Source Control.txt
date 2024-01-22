@@ -1,0 +1,32 @@
+Staging all changes on a15 as of Sunday 2024-01-21, then committing them locally, and finally pushing them to Github remote repository
+----------------------------------------------------------------------
+In MacOS VS Code Source Control, I see the choices below. Can you explain me each of those choices?
+Commit
+Commit (Amend)
+Commit & Push
+Commit & Sync
+Commit & Create Pull Request
+----------------------------------------------------------------------
+Certainly! In Visual Studio Code (VS Code) Source Control, these choices relate to version control operations, particularly when working with Git. Here's an explanation for each:
+
+1. **Commit:**
+   - **Functionality:** This option allows you to commit your changes to the local Git repository.
+   - **Explanation:** Committing means saving your changes to the version control system, creating a new revision of your code. However, this only affects your local repository and doesn't push changes to the remote repository.
+
+2. **Commit (Amend):**
+   - **Functionality:** This option is similar to a regular commit but is used to amend the previous commit.
+   - **Explanation:** Amending a commit means making additional changes to the latest commit without creating a new commit. It's useful for making quick corrections to the last commit.
+
+3. **Commit & Push:**
+   - **Functionality:** This option commits your changes locally and pushes them to the remote repository.
+   - **Explanation:** It's a combination of committing changes to your local repository and then pushing those changes to a shared remote repository, making your changes accessible to others.
+
+4. **Commit & Sync:**
+   - **Functionality:** This option commits changes locally and syncs with the remote repository.
+   - **Explanation:** Similar to Commit & Push, but the emphasis here is on syncing with the remote repository. It ensures that your local changes are integrated with any changes made by others in the remote repository.
+
+5. **Commit & Create Pull Request:**
+   - **Functionality:** This option is specific to repositories hosted on platforms like GitHub, GitLab, or Bitbucket. It commits changes and initiates the process of creating a pull request.
+   - **Explanation:** In collaborative projects, a pull request is a way to propose changes to the codebase. This option streamlines the process by creating a commit and automatically initiating a pull request for code review and merging.
+
+Each option serves a specific purpose in the version control workflow, allowing you to manage and share your code effectively.
