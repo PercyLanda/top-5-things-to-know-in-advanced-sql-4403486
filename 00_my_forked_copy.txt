@@ -1,2 +1,0 @@
-This file is to make sure this is my forked copy of the top-5-things-to-know-in-advanced-sql-4403486 repository
-Forked on Fri 2024-01-19
